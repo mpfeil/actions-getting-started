@@ -10,5 +10,5 @@ test('bar', async t => {
 });
 
 test('fizzbuzz', t => {
-  t.pass()
+  t.fail()
 });
