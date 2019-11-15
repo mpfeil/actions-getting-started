@@ -3,7 +3,7 @@ name: Create Release
 on:
   push:
     tags:
-    - 'v*'
+      - 'v*'
 
 release:
   name: Create Release
