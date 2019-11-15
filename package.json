@@ -1,0 +1,14 @@
+{
+  "name": "actions-getting-started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mpfeil/actions-getting-started.git",
+  "author": "Matthias Pfeil <matthias.pfeil@wwu.de>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
