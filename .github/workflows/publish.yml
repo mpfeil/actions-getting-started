@@ -2,7 +2,8 @@ name: Publish on npm
 
 on:
   release:
-    types: [created,published]
+    tags:
+      - 'v*'
 
 jobs:
   build:
